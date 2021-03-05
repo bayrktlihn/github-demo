@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-merhaba alihan
-=======
-meheba sd
->>>>>>> c265c52944fde4e5270e826ba6dbe64cbd964f96
+deneme 
