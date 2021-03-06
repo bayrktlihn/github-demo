@@ -44,3 +44,5 @@ rebase main ekledi
 rabase bigtrouble ekledi
 
 rebase bigtrouble eklendi 2
+
+local update
