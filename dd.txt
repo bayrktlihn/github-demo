@@ -38,5 +38,7 @@ werwerweq
 
 ekkkkkkkk
 
-rebase main ekledi 2
+
 rebase main ekledi
+
+rabase bigtrouble ekledi
